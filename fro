@@ -1,4 +1,8 @@
 #!/bin/sh
+#
+# fro: an xmas ascii banner generator for my bro
+# MMXV xero (http://xero.nu)
+
 usage() {
 printf "usage: `basename $0` \n\
    [-n --normal normal] \n\
